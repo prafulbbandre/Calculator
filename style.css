@@ -8,11 +8,11 @@ html, body {
     padding: 0.7em 1.7em;
     font-size: 18px;
     border-radius: 0.5em;
-    background: #e8e8e8;
-    border: 1px solid #e8e8e8;
+    background: #748183;
+    border: 1px solid #ffffff;
     transition: all .3s;
-    box-shadow: 6px 6px 12px #c5c5c5,
-                -6px -6px 12px #ffffff;
+    box-shadow: 2px 2px 12px #525151,
+                -2px -2px 12px #ffffff;
    }
    
    .button:active {
@@ -83,7 +83,7 @@ html, body {
     animation: rotBGimg 3.5s linear infinite;
   } */
   .input {
-    border: none;
+    border: solid ;
     width: 300px;
     padding: 1rem;
     border-radius: 1rem;

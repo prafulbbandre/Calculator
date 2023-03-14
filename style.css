@@ -2,6 +2,7 @@ html,
 body {
   height: 100%;
   width: 100%;
+  background-color: rgb(83, 78, 78);
 }
 
 .button {
@@ -9,7 +10,7 @@ body {
   padding: 0.7em 1.7em;
   font-size: 18px;
   border-radius: 0.5em;
-  background: #748183;
+  background: #ff6016;
   border: 1px solid #ffffff;
   transition: all 0.3s;
   box-shadow: 2px 2px 12px #525151, -2px -2px 12px #ffffff;

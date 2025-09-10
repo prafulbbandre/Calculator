@@ -7,7 +7,6 @@ body {
 
 .button {
   color: #ffffff;
-  display: flex;
   padding: 0.7em 1.7em;
   font-size: 20px;
   border-radius: 0.5em;
@@ -24,6 +23,7 @@ body {
 
 .row {
   margin: 8px 0;
+  display: flex;
 }
 
 .padding-20px {
